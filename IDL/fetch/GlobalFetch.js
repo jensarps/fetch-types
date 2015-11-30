@@ -10,7 +10,7 @@
 
 /**
  * @param {RequestInfo} input
- * @param {RequestInit} init
+ * @param {RequestInit} [init]
  * @returns {Promise<Response>}
  */
 fetch = function (input, init) {};
