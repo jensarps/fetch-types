@@ -1,7 +1,7 @@
 About
 ==
 
-The definitions for [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) in JavaScript using JSDoc for Code Completion and Type Hinting in your editor of choice, taken from the [Web IDL](http://www.w3.org/TR/WebIDL/) definitions in [the spec](https://fetch.spec.whatwg.org/) (as of Nov 26, 2005).
+The definitions for [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) in JavaScript using JSDoc for Code Completion and Type Hinting in your editor of choice, taken from the [Web IDL](http://www.w3.org/TR/WebIDL/) definitions in [the spec](https://fetch.spec.whatwg.org/) (as of Nov 26, 2015).
 
 Usage
 ==
