@@ -13,23 +13,20 @@ A detailed instruction can be found [in this post](http://jensarps.de/).
 Issues/Questions/ToDos
 ==
 
-String Types
---
+**String Types**
+
 
 It might be a good idea to replace usages of `USVString` and `ByteString` with `string` to avoid confusion.
 
-Read-Only Members
---
+**Read-Only Members**
 
 The only way in JSDoc to document read-only members that I know of is the `@const` tag, but that feels off to do that in many cases.
 
-The Body Mixin
---
+**The Body Mixin**
 
 Well, the Body mixin is not exposed. I have no clue how to document something like this in JSDoc.
 
-Do this work automatically
---
+**Do this work automatically**
 
 Really, it would be great if there was a tool that would automatically generate JavaScript files from IDL definitions.
 
