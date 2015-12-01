@@ -8,7 +8,7 @@ Usage
 
 Clone / download this repository, or just download the `FetchAPI.js` file. Then tell your editor / IDE to treat the `FetchAPI.js` file as a library.
 
-A detailed instruction can be found [in this post](http://jensarps.de/).
+A detailed instruction can be found [in this post](http://jensarps.de/2015/12/01/fetch-api-code-completion-and-type-hinting/).
 
 Issues/Questions/ToDos
 ==
