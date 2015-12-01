@@ -6,7 +6,7 @@ The definitions for [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API
 Usage
 ==
 
-Clone / download this repository, or just download the `fetch.js` file. Then tell your editor / IDE to treat the `fetch.js` file as a library.
+Clone / download this repository, or just download the `FetchAPI.js` file. Then tell your editor / IDE to treat the `FetchAPI.js` file as a library.
 
 A detailed instruction can be found [in this post](http://jensarps.de/).
 
